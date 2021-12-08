@@ -1,0 +1,16 @@
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\bin\Debug\net5.0\randonNumber.exe
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\bin\Debug\net5.0\randonNumber.deps.json
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\bin\Debug\net5.0\randonNumber.runtimeconfig.json
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\bin\Debug\net5.0\randonNumber.runtimeconfig.dev.json
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\bin\Debug\net5.0\randonNumber.dll
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\bin\Debug\net5.0\ref\randonNumber.dll
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\bin\Debug\net5.0\randonNumber.pdb
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\obj\Debug\net5.0\randonNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\obj\Debug\net5.0\randonNumber.AssemblyInfoInputs.cache
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\obj\Debug\net5.0\randonNumber.AssemblyInfo.cs
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\obj\Debug\net5.0\randonNumber.csproj.CoreCompileInputs.cache
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\obj\Debug\net5.0\randonNumber.dll
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\obj\Debug\net5.0\ref\randonNumber.dll
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\obj\Debug\net5.0\randonNumber.pdb
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\obj\Debug\net5.0\randonNumber.genruntimeconfig.cache
+C:\Users\jospe\Desktop\DotNetPrograms\JosePenaRevature1\.git\randonNumber\obj\Debug\net5.0\randonNumber.csproj.AssemblyReference.cache
